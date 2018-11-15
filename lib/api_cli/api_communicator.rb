@@ -9,13 +9,15 @@ artist_search = "Prince"
     binding.pry
   end
 
+  # def self.artist_to_song_search(music_search_hash) ^^music_search_result
+  #   se
+  #
+  # end
+
 
 end
 
-  def self.artist_to_song_search(music_search_hash) ^^music_search_result
-    se
 
-  end
 
 
 #write methods for these steps
