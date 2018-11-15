@@ -1,6 +1,6 @@
 class ApiCommunicator
 
-
+artist_search = "Prince"
   @@artist_search = artist_search
 
   def self.music_search
@@ -9,7 +9,6 @@ class ApiCommunicator
     binding.pry
   end
 
-  def
 
 end
 
