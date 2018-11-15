@@ -12,6 +12,11 @@ artist_search = "Prince"
 
 end
 
+  def self.artist_to_song_search(music_search_hash) ^^music_search_result
+    se
+
+  end
+
 
 #write methods for these steps
 # 1)
